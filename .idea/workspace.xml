@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe342b83-dc92-4365-9a09-f38cc8270400" name="Changes" comment="">
+    <list default="true" id="861251fb-fdb7-499c-bc4c-1948804127cf" name="Changes" comment="">
       <change beforePath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/.gitignore" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/.gitignore" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/.idea/misc.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/.idea/vcs.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/pom.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +19,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/bin/Java Automation/LevellingUp27" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HagarMohamed1&quot;
+  }
 }</component>
-  <component name="ProjectId" id="2kql0R0ymjz4q6j23HFNhjo1jVb" />
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HagarMohamed1/LevellingUp27.git&quot;,
+    &quot;accountId&quot;: &quot;9eb968aa-9b40-43e1-9748-ac02de31d834&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kvHJgfUU4nejHuUw2F1IFsDaSO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,11 +50,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe342b83-dc92-4365-9a09-f38cc8270400" name="Changes" comment="" />
-      <created>1724018764116</created>
+      <changelist id="861251fb-fdb7-499c-bc4c-1948804127cf" name="Changes" comment="" />
+      <created>1724157060324</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1724018764116</updated>
+      <updated>1724157060324</updated>
     </task>
     <servers />
   </component>
